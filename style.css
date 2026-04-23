@@ -6,7 +6,7 @@ pre {
     margin: 0;
     padding: 16px;
     text-align: center;
-    white-space: normal;
+    white-space: pre-wrap;
     overflow-wrap: anywhere;
     tab-size: 4;
     font-family: 'Times New Roman', serif;
