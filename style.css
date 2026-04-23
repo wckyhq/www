@@ -5,7 +5,7 @@ body {
 pre {
     margin: 0;
     padding: 16px;
-    position: absolute;
+    text-align: center;
     white-space: pre-wrap;
     overflow-wrap: anywhere;
     tab-size: 4;
